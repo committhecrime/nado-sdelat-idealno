@@ -7,9 +7,12 @@
 
 html {
   height: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
 }
 
 .page {
+
   position: relative;
   display: flex;
   min-width: 800px;
@@ -30,13 +33,11 @@ html {
 
 .page__text {
   z-index: 1;
-  max-width: 735px;
+  max-width: 740px;
   margin: 0 auto;
   color: #000;
   font-size: 116px;
   letter-spacing: 3.5px;
-  font-family: 'Raleway';
-  font-weight: bold;
   text-align: center;
   text-transform: uppercase;
 }
