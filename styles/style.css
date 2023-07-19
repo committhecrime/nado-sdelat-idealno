@@ -12,7 +12,6 @@ html {
 }
 
 .page {
-
   position: relative;
   display: flex;
   min-width: 800px;
@@ -33,7 +32,7 @@ html {
 
 .page__text {
   z-index: 1;
-  max-width: 732px;
+  width: 739px;
   margin: 0 auto;
   color: #000;
   font-size: 116px;
