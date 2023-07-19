@@ -32,7 +32,7 @@ html {
 
 .page__text {
   z-index: 1;
-  width: 739px;
+  max-width: 720px;
   margin: 0 auto;
   color: #000;
   font-size: 116px;
